@@ -37,8 +37,6 @@ namespace Business.Concrete
         public void Add(Product product)
         {
             _productDal.Add(product);
-
-
         }
         
     }
